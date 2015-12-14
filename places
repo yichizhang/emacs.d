@@ -1,0 +1,11 @@
+;;; -*- coding: utf-8 -*-
+(("/Users/yichi/.emacs.d/init.el" . 719)
+ ("/Users/yichi/.emacs.d/elpa/scpaste-0.6.5/scpaste-autoloads.el" . 732)
+ ("/Users/yichi/.emacs.d/elpa/htmlize-1.39/htmlize-autoloads.el" . 2731)
+ ("/Users/yichi/.emacs.d/elpa/dash-2.12.0/dash-autoloads.el" . 259)
+ ("/Users/yichi/.emacs.d/elpa/dash-functional-1.2.0/dash-functional-autoloads.el" . 246)
+ ("/Users/yichi/.emacs.d/elpa/find-file-in-project-3.3/find-file-in-project-autoloads.el" . 1010)
+ ("/Users/yichi/.emacs.d/elpa/ido-ubiquitous-2.10/ido-ubiquitous-autoloads.el" . 1244)
+ ("/Users/yichi/.emacs.d/elpa/idle-highlight-mode-1.1.2/idle-highlight-mode-autoloads.el" . 430)
+ ("/Users/yichi/.emacs.d/elpa/paredit-22/paredit-autoloads.el" . 676)
+ ("/Users/yichi/.emacs.d/elpa/smex-3.0/smex-autoloads.el" . 347))
